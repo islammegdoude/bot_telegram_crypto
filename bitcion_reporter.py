@@ -2,9 +2,9 @@ import requests
 import time
 
 # global variables
-api_key = '7753f933-be78-484b-8b63-c339f7576d9b'
-bot_key = '5015569006:AAFABMg-lD93h-m7c0xq7DVAPDky69zcII4'
-chat_id = '1054043832'
+api_key = 'your api key'
+bot_key = 'your bot key'
+chat_id = 'your chat id'
 limit = 50000
 time_interval = 30
 
